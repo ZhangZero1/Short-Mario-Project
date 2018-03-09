@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ UpPressed()
+comment1.params=
+comment1.target=void\ UpReleased()
+comment2.params=
+comment2.target=void\ DownPressed()
+comment3.params=
+comment3.target=void\ DownReleased()
+comment4.params=
+comment4.target=void\ RightPressed()
+comment5.params=
+comment5.target=void\ RightReleased()
+comment6.params=
+comment6.target=void\ LeftPressed()
+comment7.params=
+comment7.target=void\ LeftReleased()
+numComments=8

@@ -1,0 +1,2 @@
+sprite data:
+	https://www.spriters-resource.com/

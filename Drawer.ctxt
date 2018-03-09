@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=java.awt.image.BufferedImage\ inits(java.lang.String)
+comment1.params=name
+comment1.target=java.awt.image.BufferedImage[]\ init(java.lang.String)
+comment2.params=
+comment2.target=void\ INITIALIZE()
+comment3.params=amo
+comment3.target=void\ setVx(int)
+comment3.text=public\ static\ void\ addIMG(Images\ img){\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ UNIFIED.target.add(new\ Intoger(\ \ img.getTAR()\ ));\r\n\ \ \ \ \ \ \ \ //System.out.println(UNIFIED.target.get(0).getY());\r\n\ \ \ \ \r\n}
+comment4.params=amo
+comment4.target=void\ setVy(int)
+numComments=5

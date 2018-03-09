@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=sub
+comment0.target=Collision(int)
+comment1.params=
+comment1.target=int\ getSUBJECT()
+comment10.params=correction
+comment10.target=void\ corY(int[][])
+comment2.params=tar
+comment2.target=char\ Collide(int)
+comment3.params=
+comment3.target=java.lang.String\ collisionType()
+comment4.params=tar
+comment4.target=boolean\ collide(int)
+comment5.params=tar
+comment5.target=int\ Xdiff(int)
+comment6.params=tar
+comment6.target=int\ Ydiff(int)
+comment7.params=
+comment7.target=int[][]\ correct()
+comment8.params=
+comment8.target=void\ Correct()
+comment9.params=correction
+comment9.target=void\ corX(int[][])
+numComments=11

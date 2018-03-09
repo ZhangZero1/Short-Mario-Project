@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=evt
+comment0.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment1.params=evt
+comment1.target=void\ mouseDragged(java.awt.event.MouseEvent)
+numComments=2
